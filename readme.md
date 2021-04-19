@@ -125,6 +125,8 @@ If you are a current MSDS student, you are welcome to audit any or all classes w
 
 If you are not a current MSDS student, you are also welcome to enroll this course. Please email for permission [bspiering@usfca.edu](mailto:bspiering@usfca.edu).
 
+If you are auditing, your work will not be graded.
+
 ### Prework Check
 
 There will be a required prework __before__ each class. The prework will check that you have watch the videos, read the reading, and are prepared for the in-class activities. The prework check also allows be to get a sense for the current  understanding of the class. I know which material I can skim/skip and which material to over in greater detail.
