@@ -157,22 +157,6 @@ In lieu of a Final Exam, there will be a Final Project. The Final Project will b
 Details and due dates are in Final Project Folder.
 
 ----
-Grading
-----
-
-| Grade | Final Percentage |
-|:-----:|:----------------:|
-| A+    | = 100%           |
-| A     | ≥ 93% and < 100% |
-| A-    | ≥ 90% and < 93%  |
-| B+    | ≥ 87% and < 90%  |
-| B     | ≥ 83% and < 87%  |
-| B-    | ≥ 80% and < 83%  |
-| C+    | ≥ 77% and < 80%  |
-| C     | ≥ 73% and < 77%  |
-| C-    | ≥ 70% and < 73%  |
-| F     | < 70%            |
-
 Grading standards
 ----
 
