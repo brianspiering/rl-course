@@ -1,4 +1,4 @@
-<center><h2>Reinforcement Learning course</h2></center>
+<center><h2>Applied Reinforcement Learning Course</h2></center>
 
 <center><img src="https://imgs.xkcd.com/comics/progeny.png" style="width: 40%"/></center>
 
@@ -6,12 +6,11 @@
 Course Description
 ----
 
-This course will cover techniques in applied Reinforcement Learning (RL). Reinforcement Learning is one the most successful subdomains within Artificial Intelligence (AI). The fundamental idea in Reinforcement Learning is - agents learn to take successful actions within an environment. 
+This course will cover fundamental techniques in applied Reinforcement Learning (RL). 
 
-Reinforcement Learning extends the usefulness of Machine Learning into new domains, such as video games, board games, and robotics. The course will focus on contemporary, practical applications of Reinforcement Learning. 
+Reinforcement Learning is one the most successful subdomains within Artificial Intelligence (AI). The core idea in Reinforcement Learning is agents learn to take successful actions within an environment. 
 
-Topics will include fundamental Reinforcement Learning algorithms, such as multi-arm bandits and q-learning, and Deep Reinforcement Learning. 
-
+Reinforcement Learning extends the usefulness of Machine Learning into new domains, such as video games, board games, and robotics. The course will focus on contemporary, practical applications of Reinforcement Learning, such as multi-arm bandits, q-learning, and Deep Reinforcement Learning. 
 
 ----
 Logistics
@@ -21,7 +20,7 @@ __Instructor:__ Brian Spiering
 __Website__: [github.com/brianspiering/
 rl-course](https://github.com/brianspiering/rl-course)    
 
-Prerequisite Knowledge
+Prerequisites
 ----
 
 - Working knowledge of probability, statistics, machine learning, and deep learning.
