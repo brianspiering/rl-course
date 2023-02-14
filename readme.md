@@ -10,7 +10,7 @@ This course covers the fundamental techniques in applied Reinforcement Learning 
 
 Reinforcement Learning is one the most successful subdomains within Artificial Intelligence (AI). The core idea in Reinforcement Learning is agents learn to which actions are successful in a given environment. 
 
-Reinforcement Learning extends the usefulness of Machine Learning into new domains, such as video games, board games, robotics, and human feedback for machine learning models. The course will focus on contemporary, practical applications of Reinforcement Learning, such as multi-arm bandits, q-learning, and Deep Reinforcement Learning. 
+Reinforcement Learning extends the usefulness of Machine Learning into new domains, such as video games, board games, robotics, and using human feedback to improve machine learning models (i.e., training GPTChat). The course will focus on contemporary, practical applications of Reinforcement Learning, such as multi-arm bandits, q-learning, and Deep Reinforcement Learning. 
 
 ----
 Logistics
