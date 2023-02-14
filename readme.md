@@ -6,11 +6,11 @@
 Course Description
 ----
 
-This course will cover fundamental techniques in applied Reinforcement Learning (RL). 
+This course covers the fundamental techniques in applied Reinforcement Learning (RL). 
 
-Reinforcement Learning is one the most successful subdomains within Artificial Intelligence (AI). The core idea in Reinforcement Learning is agents learn to take successful actions within an environment. 
+Reinforcement Learning is one the most successful subdomains within Artificial Intelligence (AI). The core idea in Reinforcement Learning is agents learn to which actions are successful in a given environment. 
 
-Reinforcement Learning extends the usefulness of Machine Learning into new domains, such as video games, board games, and robotics. The course will focus on contemporary, practical applications of Reinforcement Learning, such as multi-arm bandits, q-learning, and Deep Reinforcement Learning. 
+Reinforcement Learning extends the usefulness of Machine Learning into new domains, such as video games, board games, robotics, and human feedback for machine learning models. The course will focus on contemporary, practical applications of Reinforcement Learning, such as multi-arm bandits, q-learning, and Deep Reinforcement Learning. 
 
 ----
 Logistics
@@ -19,12 +19,6 @@ Logistics
 __Instructor:__ Brian Spiering   
 __Website__: [github.com/brianspiering/
 rl-course](https://github.com/brianspiering/rl-course)    
-
-Prerequisites
-----
-
-- Working knowledge of probability, statistics, machine learning, and deep learning.
-- Intermediate level of Python (e.g., ability to create to classes).
 
 Learning Outcomes
 ----
@@ -35,6 +29,12 @@ By the end of the course, you should be able to:
 1. Define and identify examples of common Reinforcement Learning terms (e.g., agent, environment, state, and rewards).
 1. Implement common Reinforcement Learning techniques (e.g., multi-arm bandits and q-learning) from scratch.
 1. Create end-to-end Deep Reinforcement Learning applications.
+
+Prerequisites
+----
+
+- Working knowledge of probability, statistics, machine learning, and deep learning.
+- Intermediate level of Python (e.g., ability to create to classes).
 
 ----
 Topics
@@ -49,35 +49,18 @@ Topics
 7.  Contextual Bandits for Recommendation Systems
 8.  Dynamic Programming 
 9.  Monte Carlo 
-10.  Temporal Difference Learning
-11.  Q-Learning
-12.  Value Function Approximation 
-13.  Deep Reinforcement Learning (DRL)
-14.  Deep Q-learning
-15.  Deep Reinforcement Learning Applications
+10. Temporal Difference Learning
+11. Q-Learning
+12. Value Function Approximation 
+13. Deep Reinforcement Learning (DRL)
+14. Deep Q-learning
+15. Deep Reinforcement Learning Applications
 16. Proximal Policy Optimization (PPO)
 17. Alpha Go 
 18. Future of RL 
 19. Student's Choice
 
 The Deep Learning section will be in [Keras](https://www.tensorflow.org/guide/keras).
-
-This course is not a [complete survey of RL methods](http://louiskirsch.com/assets/posts/map-reinforcement-learning/methods.svg).
-
-Topics Not Covered
------
-
-- Artificial General Intelligence (AGI)
-- “Good Old Fashioned AI”, aka expert / ruled-based systems
-- Cutting-edge research 
-- General discrete and continuous space search / optimization
-- Game Theory, including minimax
-- Psychology
-- Neuroscience
-- Genetic algorithms
-- Simulated annealing
-- Robotics
-- Multiple agents
 
 ----
 Textbooks
@@ -106,7 +89,7 @@ Currently, there is no extra credit. If there is any extra credit, it entirely a
 
 ### Participation
 
-I try to create an active learning environment in my classroom, which is incentivized with the _Participation_ grade. Attendance is mandatory, you can't participate if you don't attend. It is the responsibility of the student to attend all classes. If you have to miss class, due to sickness, job interviewing, or other circumstances, please notify your instructor by Slack in advance. Supporting documents (e.g., doctor’s notes) may be asked for to accompany absences.
+I try to create an active learning environment in my classroom, which is incentivized with the _Participation_ grade. Attendance is mandatory, you can't participate if you don't attend. It is the responsibility of the student to attend all classes. If you have to miss class, due to sickness, job related activities, or other circumstances, please notify your instructor by Slack in advance. 
 
 Tardiness negatively impacts an active learning environment, thus will impact your participation grade.
 
