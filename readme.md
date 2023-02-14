@@ -85,7 +85,7 @@ Textbooks
 
 1. Reinforcement Learning: An Introduction by Richard S. Sutton and Andrew G. Barto. The standard textbook for RL [pdf](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
 1. Algorithms for Reinforcement Learning by Csaba Szepesvari. A delightful walk-through of the most common RL algorithms [pdf](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
-1. [Artificial Intelligence: A Modern Approach 4ᵗʰ Edition](https://www.amazon.com/Artificial-Intelligence-A-Modern-Approach/dp/0134610997/) by Stewart Russell and Peter Norvig. Should be published on May 8, 2020.
+1. [Artificial Intelligence: A Modern Approach 4ᵗʰ Edition](https://www.amazon.com/Artificial-Intelligence-A-Modern-Approach/dp/0134610997/) by Stewart Russell and Peter Norvig. The standard textbook for AI.
  
 ----
 Grading
