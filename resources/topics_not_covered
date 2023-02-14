@@ -1,0 +1,16 @@
+This course is not a [complete survey of RL methods](http://louiskirsch.com/assets/posts/map-reinforcement-learning/methods.svg).
+
+Topics Not Covered
+-----
+
+- Artificial General Intelligence (AGI)
+- “Good Old Fashioned AI”, aka expert / ruled-based systems
+- Cutting-edge research 
+- General discrete and continuous space search / optimization
+- Game Theory, including minimax
+- Psychology
+- Neuroscience
+- Genetic algorithms
+- Simulated annealing
+- Robotics
+- Multiple agents
